@@ -1,0 +1,85 @@
+bug_id,bug_severity,priority,op_sys,assigned_to,bug_status,resolution,short_desc
+13,critical,Highest,Windows,a@gmail.com,ASSIGNED,---,logo doesn't display  in proprely responsive UI
+14,critical,Highest,Windows,a@gmail.com,ASSIGNED,---,doesn't display all dropdown menu proper alignment
+24,critical,Highest,Windows,a@gmail.com,ASSIGNED,---,I entring page it display there are no product to list in this category
+33,minor,Highest,Windows,a@gmail.com,ASSIGNED,---,model name not mentioned
+37,critical,Highest,Windows,a@gmail.com,ASSIGNED,---,this apple cinema this is show some camera image in this
+46,critical,Highest,Windows,dhaval@gmail.com,ASSIGNED,---,does not display validation message after entering numeric value
+50,critical,Highest,Windows,dhaval@gmail.com,ASSIGNED,---,no value is passed in mandatory fields and submit button clicked it does't display validation error
+51,critical,Highest,Windows,dhaval@gmail.com,ASSIGNED,---,does not display success message clicking submit button and
+52,critical,Highest,Windows,dhaval@gmail.com,ASSIGNED,---,does't display success message after entering valid data all field
+53,minor,Highest,Windows,dhaval@gmail.com,ASSIGNED,---,all option very blur and not clearly visible with responsive UI
+2,critical,High,Windows,a@gmail.com,ASSIGNED,---,Hower Effect is not woking properly while put cursor on cart button it not show icon and detail proper
+3,major,High,Windows,a@gmail.com,ASSIGNED,---,contact and my account option are not highlighted
+4,major,High,Windows,a@gmail.com,ASSIGNED,---,it doesn't display proper Text according to alignment
+5,major,High,Windows,a@gmail.com,ASSIGNED,---,contact option is not clickable
+6,major,High,Windows,a@gmail.com,ASSIGNED,---,it display There are no products to list in this category.
+7,major,High,Windows,a@gmail.com,ASSIGNED,---,it doesn't display proper Text according to alignment
+8,major,High,Windows,a@gmail.com,ASSIGNED,---,Shot by and show option it doesn't hower effect
+9,major,High,Windows,a@gmail.com,ASSIGNED,---,it doesn't display proper Text according to alignment
+10,major,High,Windows,a@gmail.com,ASSIGNED,---,it display all catagories of product in desktops field page
+11,major,High,Windows,a@gmail.com,ASSIGNED,---,product compare box and i salect sort by name(Z - A) doesn't shown proper dimenstion and alignments
+12,critical,High,Windows,a@gmail.com,ASSIGNED,---,first page having sufficent space but adding  product  to second page
+15,critical,High,Windows,a@gmail.com,ASSIGNED,---,defualt show is working properly but another all dropdown manu not proper alignments
+16,critical,High,Windows,a@gmail.com,ASSIGNED,---,sort by and show option not highlighted after put on a cursor
+17,major,High,Windows,a@gmail.com,ASSIGNED,---,not a proper aligned Laptops & Notebooks page
+18,critical,High,Windows,a@gmail.com,ASSIGNED,---,Sort by and Show button not hower effect proper
+19,major,High,Windows,a@gmail.com,ASSIGNED,---,logo does't display with responsive UI
+21,minor,High,Windows,a@gmail.com,ASSIGNED,---,it should be compatible with responsive UI
+23,critical,High,Windows,a@gmail.com,ASSIGNED,---,it display very gap in two option in this page
+25,minor,High,Windows,a@gmail.com,ASSIGNED,---,"product compare box, sort by and show option is not  aligned"
+26,major,High,Windows,a@gmail.com,ASSIGNED,---,product compare functionality not working properly
+27,minor,High,Windows,a@gmail.com,ASSIGNED,---,"product compare box, sort by and show option is not  aligned"
+28,major,High,Windows,a@gmail.com,ASSIGNED,---,product compare functionality not working properly
+29,minor,High,Windows,a@gmail.com,ASSIGNED,---,it should be all option are aligned proper space
+30,critical,High,Windows,a@gmail.com,ASSIGNED,---,slides not rotate automatically
+31,critical,High,Windows,a@gmail.com,ASSIGNED,---,different showing image and slider image
+34,critical,High,Windows,a@gmail.com,ASSIGNED,---,product do not adding to wishlist
+35,minor,High,Windows,a@gmail.com,ASSIGNED,---,iphone display properly but not mention model name
+36,critical,High,Windows,a@gmail.com,ASSIGNED,---,product do not adding to wishlist
+38,critical,High,Windows,a@gmail.com,ASSIGNED,---,product do not adding to wishlist
+39,critical,High,Windows,a@gmail.com,ASSIGNED,---,product do not adding to wishlist
+40,critical,High,Windows,a@gmail.com,ASSIGNED,---,add cart button not working properly
+41,minor,High,Windows,a@gmail.com,ASSIGNED,---,doesn't display to proper aligned
+66,major,High,Windows,a@gmail.com,ASSIGNED,---,contact number is not clickabel
+67,major,High,Windows,a@gmail.com,ASSIGNED,---,does't display validation message after enter numeric data
+68,major,High,Windows,a@gmail.com,ASSIGNED,---,does't display validation message after enter special characters
+69,major,High,Windows,a@gmail.com,ASSIGNED,---,does't display validation message after enter numeric data
+70,major,High,Windows,a@gmail.com,ASSIGNED,---,does't display validation message after enter special characters
+71,major,High,Windows,a@gmail.com,ASSIGNED,---,does't accepted it email address because not mention @
+72,major,High,Windows,a@gmail.com,ASSIGNED,---,entering @  it does't accepting email address
+73,minor,High,Windows,a@gmail.com,ASSIGNED,---,does't mention hide and show button in box
+74,critical,High,Windows,a@gmail.com,ASSIGNED,---,does't display success message after entering all valid data
+75,critical,High,Windows,a@gmail.com,ASSIGNED,---,doest display validation message after not enter data in all field and click on continue button
+76,minor,High,Windows,a@gmail.com,ASSIGNED,---,all details not good qulity and very blur
+77,major,High,Windows,a@gmail.com,ASSIGNED,---,does't display validation message after not enter details
+78,major,High,Windows,a@gmail.com,ASSIGNED,---,not login successful after enter valid data
+79,major,High,Windows,a@gmail.com,ASSIGNED,---,does't display validation message after click on login button
+80,major,High,Windows,a@gmail.com,ASSIGNED,---,does't display validation message after click on login button
+81,critical,High,Windows,a@gmail.com,ASSIGNED,---,it show message this email address is not found in record
+82,major,High,Windows,a@gmail.com,ASSIGNED,---,it display this email is not found in record
+83,major,High,Windows,a@gmail.com,ASSIGNED,---,page is redirect to login page not showing wishlist  informtion
+84,major,High,Windows,a@gmail.com,ASSIGNED,---,it rediarect to shopping cart page
+32,critical,High,Windows,dhaval@gmail.com,ASSIGNED,---,different showing image and slider image
+42,critical,High,Windows,dhaval@gmail.com,ASSIGNED,---,does't display terms and conditon this page
+43,critical,High,Windows,dhaval@gmail.com,ASSIGNED,---,page doesn't display information
+44,critical,High,Windows,dhaval@gmail.com,ASSIGNED,---,page doesn't display information
+45,major,High,Windows,dhaval@gmail.com,ASSIGNED,---,page doesn't display information
+47,critical,High,Windows,dhaval@gmail.com,ASSIGNED,---,does't display validation message
+48,critical,High,Windows,dhaval@gmail.com,ASSIGNED,---,entering numeric data does't display validation message
+49,critical,High,Windows,dhaval@gmail.com,ASSIGNED,---,does't display validation message after enter numeric data
+54,minor,High,Windows,dhaval@gmail.com,ASSIGNED,---,page is not aligned and logo and images is not provied
+55,minor,High,Windows,dhaval@gmail.com,ASSIGNED,---,does't display cencel button
+56,critical,High,Windows,dhaval@gmail.com,ASSIGNED,---,does't display validation message
+57,major,High,Windows,dhaval@gmail.com,ASSIGNED,---,does't display success message
+58,critical,High,Windows,dhaval@gmail.com,ASSIGNED,---,does't showing validation error message
+59,minor,High,Windows,dhaval@gmail.com,ASSIGNED,---,"product compare, sort by and show box is not aligned  proper"
+60,major,High,Windows,dhaval@gmail.com,ASSIGNED,---,does't mention back button
+61,minor,High,Windows,dhaval@gmail.com,ASSIGNED,---,sort by and show button is not working hover effect
+62,major,High,Windows,dhaval@gmail.com,ASSIGNED,---,it show login and sign in page
+63,major,High,Windows,dhaval@gmail.com,ASSIGNED,---,order history button redirect to login page
+64,major,High,Windows,dhaval@gmail.com,ASSIGNED,---,it redirect to login page
+65,major,High,Windows,dhaval@gmail.com,ASSIGNED,---,it redirect to login page
+20,enhancement,Low,Windows,a@gmail.com,ASSIGNED,---,it not showing product and showing a refine search
+22,major,Low,Windows,a@gmail.com,ASSIGNED,---,Sort by and Show button not highlighted after put cursor
+1,major,---,Windows,a@gmail.com,ASSIGNED,---,it displays different data according to mobile screen resolution
